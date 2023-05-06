@@ -6,6 +6,7 @@
 </div>
 
 # Discord.js-Temporary-Channel (Only for voice channel)
+# Thanks to DS112
 
 ![Typescript](https://img.shields.io/badge/Typescript-4.4.x.dev-brightgreen.svg?logo=typescript&style=for-the-badge)
 ![Node 16](https://img.shields.io/badge/NodeJS-16.6.1-brightgreen.svg?logo=node.js&style=for-the-badge)
